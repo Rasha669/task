@@ -1,4 +1,2 @@
-
-
-print 'hellow world i am report'
+print 'hellow world'
 
